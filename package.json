@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^6.4.3",
+    "vite": "^6.4.5",
     "wrangler": "^4.59.1"
   },
   "keywords": [
